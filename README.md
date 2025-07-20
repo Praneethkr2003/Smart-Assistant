@@ -114,4 +114,5 @@ MIT License
 
 _Last updated: July 20, 2025_
 
->>>>>>> e54266c (Fix calendar sync and Gmail auth bugs)
+>>>>>>> e23456c
+>>>>>>>  (Fix calendar sync and Gmail auth bugs)
