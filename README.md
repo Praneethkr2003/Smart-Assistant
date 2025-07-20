@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Smart Assistant Telegram Bot
 
 A privacy-focused productivity assistant bot for students, built on Python and Telegram. Integrates Gmail, Google Calendar, AI-powered content expansion, reminders, attendance monitoring, and more—all via chat. No web dashboard required.
